@@ -3,9 +3,9 @@
 /* ──────────────────────────────────────────
 
  jira_users.js
- 
+
  Fetches all users from Jira Cloud and writes them to jira_users.json.
- 
+
  Usage:
    JIRA_BASE_URL=https://yourcompany.atlassian.net \
    JIRA_EMAIL=you@example.com \
